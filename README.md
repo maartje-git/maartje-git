@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello ฅ^•ﻌ•^ฅ
 
-<!--
-**maartje-git/maartje-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is **Maartje** :sassy_woman: and welcome to my github 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+- :woman_scientist: I’m currently working on 
+  > operating an OT-2 pipetting robot and developping molecular biology tools
+- :nerd_face: I’m currently learning 
+  > python
+- :smiley: I’m looking to collaborate on 
+  > molecular biology tools
+- :raised_eyebrow: I’m looking for help with 
+  > everything ;)
+- :speech_balloon: How to reach me: 
+  > maartje.brouwer@nioz.nl
+- :purple_heart: Pronouns: 
+  > she/her
+ 
+
+```
+
+
