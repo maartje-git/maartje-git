@@ -3,7 +3,7 @@
 #### My name is **Maartje** :sassy_woman: and welcome to my github 
 
 
-```
+
 - :woman_scientist: I’m currently working on 
   > operating an OT-2 pipetting robot and developping molecular biology tools
 - :nerd_face: I’m currently learning 
@@ -17,7 +17,4 @@
 - :purple_heart: Pronouns: 
   > she/her
  
-
-```
-
 
